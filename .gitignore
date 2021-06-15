@@ -35,3 +35,4 @@ build/
 # Android
 /captures
 /local.properties
+/compose/out
